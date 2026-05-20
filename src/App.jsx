@@ -47,34 +47,34 @@ function App() {
         <section id="s1" className={s.s1}>
            
         </section>
-        <section id="s2">
+        <section id="s2" className={s.s2}>
             <h1>Conheça nossos ícones</h1>
             <h2>3d Hydra Lipgloss</h2>
             <h4>Uma nova fronteira de luminosidade e conforto para os seus lábios. Um produto simplesmente icónico e belo que hidrata os lábios até 8h*, envolvendo-os num brilho puro..</h4>
 
         </section>
-        <section id="s3">
+        <section id="s3" className={s.s3}>
             <iframe  className={s.video} src="https://www.youtube.com/embed/YOALdVJ-am4?si=R07qCnwI0u_z4AsP&autoplay=1&mute=1"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </section>
-        <section id="s4">
+        <section id="s4" className={s.s4}>
 
         </section>
-        <section id="s5">
+        <section id="s5" className={s.s5}>
 
         </section>
-        <section id="s6">
+        <section id="s6"className={s.s6}>
 
         </section>
-        <section id="s7">
+        <section id="s7" className={s.s7}>
 
         </section>
-        <section id="s8">
+        <section id="s8" className={s.s8}>
 
         </section>
-        <section id="s9">
+        <section id="s9" className= {s.s9}>
 
         </section>
-        <section id="s10">
+        <section id="s10" className={s.s10}>
 
         </section>
 

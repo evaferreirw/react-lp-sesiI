@@ -21,7 +21,7 @@
 }
 
  #s1 {
-    background-image: url(../assets/imagens/MARE-WEST-KIKO-1920x1080-OPEN.jpg);
+    background-image: url('/iamge.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
