@@ -1,28 +1,19 @@
-import s from  './App.module.css'
+import s from './App.module.css'
+
+import nomeDaFoto from '/favicon.svg'
 
 function App() {
 //js
 
   return (
    <>
-        <span className={s.navItems} onclick="navTo('s1')">
-        <a className={s.navWords}>Home</a>
-      </span>
-      <span className={s.navItems} onclick="navTo('s2')">
-        <a className={s.navWords}>Mais vendidos</a>
-      </span>
-      <span className={s.navItems} onclick="navTo('s3')">
-        <a className={s.navWords}>Vídeo</a>
-      </span>
-      <span className={s.navItems} onclick="navTo('s4')">
-        <a className={s.navWords}>Contato</a>
+
     <nav>
         <div className={s.topnav}>
-            <img src="../assets/imagens/Kiko_Milano_logo.svg.png" alt="" width="85px">
+            <img src={nomeDaFoto} alt="" width="85px"/>
                 
-            
         </div>
-        <div className {s.bottomanav}>
+        <div className={s.bottomanav}>
             <span>
                 <a href="#s2">Mais vendidos </a>
             </span>
@@ -53,7 +44,7 @@ function App() {
         </div>
     </nav>
     <main>
-        <section id="s1">
+        <section id="s1" className={s.s1}>
            
         </section>
         <section id="s2">
