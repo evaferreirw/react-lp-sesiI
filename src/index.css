@@ -61,7 +61,7 @@ section {
     min-height: 100vh;
     height: auto;
 }
-
+/* 
 h1 {
     font-size: 70px;
     word-break: break-word;
@@ -74,9 +74,15 @@ h1 {
     font-family:"Smooch Sans";
     margin-top: 60px;
     color: #000000;
-}
+} */
 h2 {
     font-size: 50px;
     margin-left: 20px;
     color: #c78396;
+}
+h3 {
+    font-size: 45px;
+    margin-left: 20px;
+    color: #ffffff;
+
 }

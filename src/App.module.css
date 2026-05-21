@@ -20,8 +20,8 @@
 
 }
 
- #s1 {
-    background-image: url('/iamge.jpg');
+.s1 {
+    background-image: url('/image.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -53,4 +53,32 @@
      display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.titulo{
+    font-size: 70px;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    text-transform: uppercase;
+    text-shadow: 0px 1px 5px var(--lpink);
+    letter-spacing: 7px;
+    width: 100%;
+    text-align: center;
+    font-family:"Cormorant Garamond";
+    margin-top: 60px;
+    color: #000000;
+
+}
+.subtitulo {
+     font-size: 50px;
+     margin-left: 20px;
+     color: #c78396;
+     font-family: 'Times New Roman', Times, serif;
+}
+.paragrafo {
+    font-size: 45px;
+    margin-left: 20px;
+    color: #ffffff;
+    font-family:  'Cormorant Garamond';
+ 
 }
