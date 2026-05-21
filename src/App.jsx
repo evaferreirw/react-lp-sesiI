@@ -51,7 +51,8 @@ function App() {
             <h1 className={s.titulo}>Conheça nossos ícones</h1>
             <h2 className={s.subtitulo}>3d Hydra Lipgloss</h2>
             <h3 className={s.paragrafo}>Uma nova fronteira de luminosidade e conforto para os seus lábios. Um produto simplesmente icónico e belo que hidrata os lábios até 8h, envolvendo-os num brilho puro</h3>
-            <h1 className= {s.titulo2}>Unlimited Double Touch</h1>
+            <h1 className= {s.subtitulo2}>Unlimited Double Touch</h1>
+            <h3 className={s.paragrafo2}> Batom líquido de longa duração (16 horas*) em 2 passos, acabamento luminoso</h3>
         </section>
         <section id="s3" className={s.s3}>
             <iframe  className={s.video} src="https://www.youtube.com/embed/YOALdVJ-am4?si=R07qCnwI0u_z4AsP&autoplay=1&mute=1"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

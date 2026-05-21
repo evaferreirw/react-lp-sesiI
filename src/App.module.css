@@ -79,6 +79,26 @@
     font-size: 45px;
     margin-left: 20px;
     color: #ffffff;
+    margin-bottom: 40px;
     font-family:  'Cormorant Garamond';
  
+}
+.subtitulo2 {
+    font-size: 50px;
+    margin-left: 20px;
+    color: #c78396;
+    font-family: 'Times New Roman', Times, serif;
+}
+.paragrafo2{
+    font-size: 45px;
+    margin-left: 20px;
+    color: #ffffff;
+    margin-bottom: 40px;
+    font-family:  'Cormorant Garamond';
+}
+.subtitulo3 {
+    font-size: 50px;
+    margin-left: 20px;
+    color: #c78396;
+    font-family: 'Times New Roman', Times, serif;
 }
