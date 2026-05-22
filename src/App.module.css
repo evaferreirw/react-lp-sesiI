@@ -78,7 +78,7 @@
 .paragrafo {
     font-size: 45px;
     margin-left: 20px;
-    color: #ffffff;
+    color: #000000;
     margin-bottom: 40px;
     font-family:  'Cormorant Garamond';
  
@@ -92,7 +92,7 @@
 .paragrafo2{
     font-size: 45px;
     margin-left: 20px;
-    color: #ffffff;
+    color: #000000;
     margin-bottom: 40px;
     font-family:  'Cormorant Garamond';
 }
@@ -102,3 +102,24 @@
     color: #c78396;
     font-family: 'Times New Roman', Times, serif;
 }
+.paragrafo3 {
+    font-size: 45px;
+    margin-left: 20px;
+    color: #000000;
+    margin-bottom: 40px;
+    font-family:  'Cormorant Garamond';
+} 
+.titulo2 {
+    font-size: 70px;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    text-transform: uppercase;
+    text-shadow: 0px 1px 5px var(--lpink);
+    letter-spacing: 7px;
+    width: 100%;
+    text-align: center;
+    font-family:"Cormorant Garamond";
+    margin-top: 60px;
+    color: #000000;
+
+} 
